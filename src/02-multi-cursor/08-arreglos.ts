@@ -19,7 +19,7 @@ sábado
 domingo
 
 
-
+const dias = ['lunes', 'martes', 'miércoles', 'jueves', 'viernes', 'sábado', 'domingo'];
 
 
 // Objetivo final
